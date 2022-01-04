@@ -6,3 +6,7 @@
 - TypeScript
 - ReactJS
 - React Native
+- MySql
+- MongoDB e Banco de Dados NoSQL
+- NodeJS
+- Dockers
