@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "clone-ifood-react-native",
-    "slug": "clone-ifood-react-native",
+    "name": "ifood",
+    "slug": "ifood",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
